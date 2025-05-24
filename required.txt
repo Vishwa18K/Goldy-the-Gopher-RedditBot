@@ -1,0 +1,3 @@
+setuptools wheel
+sentence-transformers (model: "sentence-transformers/all-MiniLM-L6-v2")
+from sklearn.metrics.pairwise import cosine_similarity
